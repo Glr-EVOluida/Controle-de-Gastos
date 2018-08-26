@@ -1,0 +1,17 @@
+#form{
+  margin-top: 200px
+}
+.content{
+  min-height: calc(100vh - 70px);
+}
+.footer{
+  height:50px;
+  text-align: center
+}
+.total{
+  font-size: 25px;
+  font-weight: bold;
+}
+.din{
+  margin-top:8px;
+}
